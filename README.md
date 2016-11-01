@@ -4,9 +4,9 @@
 - Use - for spaces (e.g. vanguard solar app would be vanguard-solar-app)
 - Do not use CamelCase for project names
 
-## Prefix - Purpose
-- _bc_ - Basecamp projects
-- _vsa_ - Vanguard Solar App
-- _x_ - eXploration
+## Prefix - Purpose (example)
+- _bc_ - Basecamp projects (bc-basecampone)
+- _vsa_ - Vanguard Solar App (vsa-front-end-html)
+- _x_ - eXploration (x-ibeacon)
 
 (please add as you see fit)

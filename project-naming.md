@@ -7,6 +7,7 @@
 ## Prefix Standards
 | Prefix        | Purpose           | Example  |
 | ------------- | ------------- | ------ |
+| _auth_     | Identity, Authentication, Authorization | auth-overview |
 | _bc_       | Basecamp projects | bc-basecampone |
 | _vsa_      | Vanguard Solar App      |   vsa-front-end-html |
 | _x_        | eXploration       |    x-ibeacon |

@@ -23,5 +23,5 @@ While not speicifcally standards, these are more guideline based. The first and 
 
 | Tool | Purpose | Description |
 | ---- | ------- | ----------- |
-| Sublime Text | Text Editor | Excellent multi-platform text editor |
+| [Sublime Text](https://www.sublimetext.com/) | Text Editor | Excellent multi-platform text editor |
 

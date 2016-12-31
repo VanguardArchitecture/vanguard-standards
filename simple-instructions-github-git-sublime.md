@@ -4,7 +4,7 @@ These are instructions on how to navigate Git for simple updates. It doesn't add
 
 [Alt A: Github Edit](#alt-a-edit-on-github)
 
-[Alt B: CLI + Sublime](#alt-b-command-line-sublime)
+[Alt B: CLI + Sublime](#alt-b-command-line--sublime)
 
 ## Alt A: Edit on Github
 

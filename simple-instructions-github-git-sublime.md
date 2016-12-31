@@ -8,6 +8,11 @@ These are instructions on how to navigate Git for simple updates. It doesn't add
 
 ## Alt A: Edit on Github
 
+1. Nav to Repo
+2. Select File to Edit
+3. Edit File
+4. Commit Changes
+
 ### Navigate to the Repo
 
 ![Repo Nav](./images/a-repo-nav.jpg)
@@ -25,6 +30,18 @@ These are instructions on how to navigate Git for simple updates. It doesn't add
 ![Commit Changes](./images/d-file-commit.jpg)
 
 ## Alt B: Command Line / Sublime
+
+1. Nav to Repo
+2. Copy Repo Address
+3. Open Terminal or Command Line and navigate to code folder
+4. Git Clone the Repo (paste from Repo Address)
+5. Use Sublime (or other Text Editor) to make changes
+6. Use Git commands to Commit
+  ```
+  git add .
+  git commit -m "your changes message"
+  git push
+  ```
 
 ### Navigate to the Repo you want to use
 

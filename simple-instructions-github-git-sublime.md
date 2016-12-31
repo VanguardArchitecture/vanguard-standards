@@ -2,8 +2,9 @@
 
 These are instructions on how to navigate Git for simple updates. It doesn't address branching, merging, conflicts or any of the advanced items.
 
-[Alt A: Github Edit]
-[Alt B: CLI + Sublime]
+[Alt A: Github Edit](#alt-a-edit-on-github)
+
+[Alt B: CLI + Sublime](#alt-b-command-line-sublime)
 
 ## Alt A: Edit on Github
 

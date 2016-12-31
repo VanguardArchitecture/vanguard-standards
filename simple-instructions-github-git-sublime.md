@@ -44,6 +44,7 @@ git clone https://github.com/VanguardArchitecture/cf-config.git
 ```
 
 ### Use Sublime to make Changes
+Or use whatever editor you'd like to use.
 
 ### Use git commands to commit
 

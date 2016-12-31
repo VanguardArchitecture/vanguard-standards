@@ -39,7 +39,9 @@ These are instructions on how to navigate Git for simple updates. It doesn't add
 6. Use Git commands to Commit
   ```
   git add .
+
   git commit -m "your changes message"
+
   git push
   ```
 
@@ -67,7 +69,9 @@ Or use whatever editor you'd like to use.
 
 ```
 git add .
+
 git commit -m "Your message here"
+
 git push
 ```
 

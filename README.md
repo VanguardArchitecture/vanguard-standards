@@ -30,4 +30,13 @@ While not speicifcally standards, these are more guideline based. The first and 
 | ---- | ------- | ----------- |
 | [Sublime Text](https://www.sublimetext.com/) | Text Editor | Excellent multi-platform text editor |
 | [Cloud9](https://c9.io) | Development Environment |  |
+| Github | Project Repo | |
+| Zenhub | Agile management | |
+| Aha!   | Strategies and Roadmaps | |
+
+## Instructions
+
+### [Github Simple Instructions ](./simple-instructions-github-git-sublime.md)
+
+
 

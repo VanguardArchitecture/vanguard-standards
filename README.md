@@ -10,7 +10,8 @@ These are the different standards used by the Vanguard Team.
 If there are several projects that roll up to an overall project, create an overall project. Use the overall project to roll-up issues using Zenhub.
 
 For example:
-__Overall Project__
+
+_Overall Project_
 
 **Vanguard**
 

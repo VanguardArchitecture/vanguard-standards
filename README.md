@@ -7,6 +7,18 @@ These are the different standards used by the Vanguard Team.
 - Use - (dash) for spaces (e.g. vanguard solar app would be vanguard-solar-app)
 - Do not use CamelCase for project names
 
+If there are several projects that roll up to an overall project, create an overall project. Use the overall project to roll-up issues using Zenhub.
+
+For example:
+**Vanguard** is the overall project
+__Sub-projects__
+**vanguard-papers**
+**vanguard-standards**
+**vanguard-blog**
+**vanguard-columbo**
+
+Github issues for each project are created at the project level. If there are product-level issues (Strategies, Roadmaps etc), those are kept at the overall project level.
+
 ### Prefix Standards
 | Prefix        | Purpose           | Example  |
 | ------------- | ------------- | ------ |

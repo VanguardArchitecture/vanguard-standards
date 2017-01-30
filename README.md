@@ -12,10 +12,10 @@ If there are several projects that roll up to an overall project, create an over
 For example:
 **Vanguard** is the overall project
 __Sub-projects__
-**vanguard-papers**
-**vanguard-standards**
-**vanguard-blog**
-**vanguard-columbo**
+* vanguard-papers**
+* vanguard-standards**
+* vanguard-blog**
+* vanguard-columbo**
 
 Github issues for each project are created at the project level. If there are product-level issues (Strategies, Roadmaps etc), those are kept at the overall project level.
 

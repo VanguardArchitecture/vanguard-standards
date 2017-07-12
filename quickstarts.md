@@ -17,8 +17,9 @@ Store the quickstart instructions in either the README.md file or create a QUICK
 
 
 # Template for a Quickstart
+This is something you can copy-paste into a new quickstart section or document.
 
-<start template>
+[ start template]
 
 # Purpose
 This is the purpose of this project and/or quickstart.
@@ -40,4 +41,4 @@ Steps that might catch someone off guard or result from a mis-configured environ
 # Where Next
 If this is part of a basecamp, point to the next logical step. If this is part of a learning series, point them there. If there are resources to learn more, list here.
 
-</ end template>
+[ end template ]

@@ -1,5 +1,7 @@
 # Introduction
-Quickstarts are used as instructions for someone going hands-on with the project / technology. 
+Quickstarts are used as instructions for someone going hands-on with the project / technology.
+
+Consider the quickstarts as stepping stones in learning or as part of a basecamp. Use them as ways to tell someone how to get a working version of the project.
 
 # Format and Headings
 The default format for a quickstart is github markdown.
@@ -14,6 +16,16 @@ Here are the common sections:
 
 # Location of the Quickstart
 Store the quickstart instructions in either the README.md file or create a QUICKSTART.md file, depending on the complexity of the instructions.
+
+# Examples of Quickstarts
+
+## Comprehensive
+* [18F Web Design Standards](https://github.com/18F/web-design-standards)
+* [Twillio](https://www.twilio.com/docs/quickstart?filter-language=ruby)
+* [Auth0](https://auth0.com/docs/quickstarts)
+
+## Basic
+* [18F Crime Data API](https://github.com/18F/crime-data-api#quickstart)
 
 
 # Template for a Quickstart
@@ -36,7 +48,7 @@ Be as specific as possible with the environment. List as many environments as ma
 ## 3. Next Next
 
 # Troubleshooting
-Steps that might catch someone off guard or result from a mis-configured environment. 
+Steps that might catch someone off guard or result from a mis-configured environment.
 
 # Where Next
 If this is part of a basecamp, point to the next logical step. If this is part of a learning series, point them there. If there are resources to learn more, list here.

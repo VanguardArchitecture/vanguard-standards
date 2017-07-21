@@ -33,6 +33,7 @@ Github issues for each project are created at the project level. If there are pr
 | _du_        | Digital Utility related | du-transactional-energy |
 | _epic_      | EPIC-related | epic-2-26 |
 | _etr_       | Emerging Technology Roadmaps | etr-radar |
+| _preso_    | Presentation Materials | preso-cloud-strategy |
 | _vanguard_ | general Vanguard information | vanguard-overview |
 | _vsa_      | Vanguard Solar App      |   vsa-front-end-html |
 | _x_        | eXploration       |    x-ibeacon |

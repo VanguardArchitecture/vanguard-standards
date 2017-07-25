@@ -47,6 +47,9 @@ Be as specific as possible with the environment. List as many environments as ma
 
 ## 3. Next Next
 
+# Validation and Verification
+How to verify the quickstart is working on your system.
+
 # Troubleshooting
 Steps that might catch someone off guard or result from a mis-configured environment.
 

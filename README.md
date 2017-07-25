@@ -38,8 +38,6 @@ Github issues for each project are created at the project level. If there are pr
 | _vsa_      | Vanguard Solar App      |   vsa-front-end-html |
 | _x_        | eXploration       |    x-ibeacon |
 
-(please add as you see fit)
-
 ## Toolchains
 While not speicifcally standards, these are more guideline based. The first and foremost goal is to enable productivity. These are tools we've found to be useful.
 
@@ -52,6 +50,9 @@ While not speicifcally standards, these are more guideline based. The first and 
 | [Aha!](http://www.aha.io/)   | Strategies and Roadmaps | [Vanguard Roadmap](https://vanguardarchitecture.aha.io/roadmap) |
 
 ## Instructions
+
+## Quickstart
+For a sample, please view [Quickstart Materials](./quickstarts.md)
 
 ### [Github Simple Instructions ](./simple-instructions-github-git-sublime.md)
 

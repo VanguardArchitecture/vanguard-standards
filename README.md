@@ -1,6 +1,9 @@
 # Vanguard Standards
 These are the different standards used by the Vanguard Team.
 
+## Forking Vanguard Repos
+[Forking Instructions for Vanguard Projects](forking.md)
+
 ## Project Naming Standards
 ### Common Rules
 - Prefix projects with an indicator (see below for list of prefixes)
